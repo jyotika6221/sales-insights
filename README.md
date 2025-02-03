@@ -65,12 +65,3 @@ This Tableau dashboard provides a comprehensive analysis of sales and revenue da
 ## 🛠️ Technologies Used
 - **Tool:** Tableau
 - **Data Visualization:** Bar charts, line charts, and KPIs
-
----
-
-## 📷 Preview
-[Include an image or link to your dashboard if hosted online]
-
----
-
-Feel free to contribute or share your feedback!
